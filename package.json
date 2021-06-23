@@ -1,0 +1,25 @@
+{
+  "name": "rpg_game",
+  "version": "1.0.0",
+  "description": "A simple RPG command line game to showcase skills with OOP ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryma1738/RPG_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryma1738/RPG_game/issues"
+  },
+  "homepage": "https://github.com/ryma1738/RPG_game#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
